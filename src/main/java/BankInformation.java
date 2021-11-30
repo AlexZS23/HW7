@@ -18,12 +18,12 @@ public class BankInformation {
     }
 
     @Override
-    public int hashCode(){
+    public int hashCode() {
         return bankRating;
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         return "Bank " + bankName + " is located at " + bankAddress;
     }
 }

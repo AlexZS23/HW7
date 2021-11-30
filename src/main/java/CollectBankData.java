@@ -11,6 +11,5 @@ public class CollectBankData {
         System.out.println(" and has rating " + bankInformation.hashCode());
         System.out.println(bankBoardMembers.toString());
         System.out.println(bankProducts.toString());
-
     }
 }

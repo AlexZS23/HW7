@@ -14,5 +14,4 @@ public class BankProducts {
     public String toString(){
         return "Their " + productName + " has a minimal term of " + productMinTermMonth + " months and the minimal sum of " + productMinSum + " USD.";
     }
-
 }
