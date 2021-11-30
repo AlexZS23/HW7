@@ -8,7 +8,7 @@ public class CollectBankData {
         BankBoardMembers bankBoardMembers = new BankBoardMembers("CEO", "Ivanov", "Oleh");
 
         System.out.print(bankInformationData.toString());
-        System.out.println(" and has raiting " + bankInformation.hashCode());
+        System.out.println(" and has rating " + bankInformation.hashCode());
         System.out.println(bankBoardMembers.toString());
         System.out.println(bankProducts.toString());
 
