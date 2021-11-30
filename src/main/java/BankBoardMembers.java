@@ -4,6 +4,7 @@ public class BankBoardMembers {
     private String memberSurname;
     private String memberName;
 
+
     public BankBoardMembers(String memberPosition, String memberSurname, String memberName) {
         this.memberPosition = memberPosition;
         this.memberSurname = memberSurname;

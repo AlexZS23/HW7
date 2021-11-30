@@ -15,7 +15,6 @@ public class FractionNumbers {
         this.firstNumber = firstNumber;
         this.secondNumber = secondNumber;
         this.mathOperation = mathOperation;
-
     }
 
     public double mathPlus() {
